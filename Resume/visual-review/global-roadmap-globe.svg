@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="190 40 368 372" role="img" aria-labelledby="hn-global-title hn-global-desc">
+<title id="hn-global-title">Global assessment and roadmap scope</title>
+<desc id="hn-global-desc">A stylized globe with continent silhouettes and regional highlights for North America, Latin America, EMEA and APAC. The illustration accompanies the global assessment and approved roadmap for a 14-division manufacturer.</desc>
+<defs>
+<radialGradient id="globe-light" cx=".4" cy=".3"><stop stop-color="#ecb18c" stop-opacity=".20"/><stop offset="1" stop-color="#ecb18c" stop-opacity="0"/></radialGradient>
+<clipPath id="globe-boundary"><circle cx="374" cy="226" r="151"/></clipPath>
+<linearGradient id="globe-land" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efc7a8" stop-opacity=".30"/><stop offset="1" stop-color="#e8bc9e" stop-opacity=".12"/></linearGradient>
+</defs>
+<circle cx="374" cy="226" r="175" fill="url(#globe-light)"/>
+<g clip-path="url(#globe-boundary)">
+<g fill="url(#globe-land)" stroke="#e8bc9e" stroke-opacity=".55" stroke-width=".8" stroke-linejoin="round">
+<path d="M237 141 252 120 275 109 300 111 318 123 330 128 324 147 312 155 304 172 293 179 292 192 305 205 316 216 310 222 298 215 283 198 269 189 261 172 246 165Z"/>
+<path d="M330 100 350 86 371 96 364 113 345 124 333 119Z"/>
+<path d="M310 224 328 224 344 237 352 256 345 275 337 289 332 310 324 329 315 312 312 291 301 273 298 251Z"/>
+<path d="M310 216 319 219 326 221 330 224 326 228 316 225Z"/>
+<path d="M385 145 392 130 408 128 413 142 428 147 428 158 416 165 407 160 399 170 386 166 375 157Z"/>
+<path d="M391 177 411 171 431 182 440 201 433 219 420 234 414 259 402 270 393 252 388 235 375 220 371 198Z"/>
+<path d="M417 128 440 112 472 117 495 133 520 144 524 165 507 178 496 190 483 194 479 213 470 223 460 203 449 196 442 179 428 165 418 153Z"/>
+<path d="M438 202 450 207 456 228 449 238 441 224Z"/>
+<path d="M473 221 482 231 484 247 476 251 468 238Z"/>
+<path d="M470 265 482 267 493 272 484 278 473 275Z"/>
+<path d="M470 291 488 280 508 286 516 301 508 315 489 319 474 311Z"/>
+<path d="M430 266 435 267 434 282 429 288 427 276Z"/>
+<path d="M245 360 Q374 334 505 360 L510 389H238Z"/>
+</g>
+<g fill="none" stroke="#e8bc9e" opacity=".25" stroke-width=".8">
+<ellipse cx="374" cy="226" rx="105" ry="151"/><ellipse cx="374" cy="226" rx="49" ry="151"/>
+<ellipse cx="374" cy="226" rx="151" ry="56"/><ellipse cx="374" cy="226" rx="151" ry="107"/>
+<path d="M223 226H525M374 75V377"/>
+</g>
+<g fill="none" stroke="#efbd98" stroke-width="1.4" stroke-opacity=".65">
+<path d="M287 160 Q349 100 399 192 Q450 167 474 247"/>
+<path d="M287 160 Q273 235 328 266 Q411 327 474 247"/>
+<path d="M328 266 Q353 220 399 192"/>
+</g>
+<g class="hp-region" fill="#f7e3ce" stroke="#efbd98">
+<g><title>North America regional experience</title><circle cx="287" cy="160" r="25" fill-opacity=".07" stroke-opacity=".45"/><circle cx="287" cy="160" r="17" fill="none" stroke-opacity=".18"/><circle cx="287" cy="160" r="4" stroke-width="1.5"/></g>
+<g><title>LATAM regional experience</title><circle cx="328" cy="266" r="26" fill-opacity=".07" stroke-opacity=".45"/><circle cx="328" cy="266" r="18" fill="none" stroke-opacity=".18"/><circle cx="328" cy="266" r="4" stroke-width="1.5"/></g>
+<g><title>EMEA regional experience</title><circle cx="399" cy="192" r="30" fill-opacity=".07" stroke-opacity=".45"/><circle cx="399" cy="192" r="22" fill="none" stroke-opacity=".18"/><circle cx="399" cy="192" r="4" stroke-width="1.5"/></g>
+<g><title>APAC regional experience</title><circle cx="474" cy="247" r="32" fill-opacity=".07" stroke-opacity=".45"/><circle cx="474" cy="247" r="24" fill="none" stroke-opacity=".18"/><circle cx="474" cy="247" r="4" stroke-width="1.5"/></g>
+</g>
+<g fill="#f5d9bf" font-size="13" font-weight="600" letter-spacing=".7" text-anchor="middle">
+<text x="287" y="125">NA</text><text x="328" y="307">LATAM</text><text x="399" y="151">EMEA</text><text x="474" y="294">APAC</text>
+</g>
+</g>
+<circle cx="374" cy="226" r="151" fill="none" stroke="#e8bc9e" stroke-opacity=".65"/>
+</svg>
